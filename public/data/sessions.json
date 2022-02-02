@@ -1,0 +1,295 @@
+[
+  {
+    "id": "",
+    "title": "",
+    "date": "",
+    "subject": "",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": ""
+      },
+      {
+        "c": "",
+        "embed": ""
+      },
+      {
+        "c": "",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": "l202",
+    "title": "Day 3 - February 2nd: ",
+    "date": "Feb 2nd",
+    "subject": "Lang",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Open your book on page 41 and ask questions to your partners after looking at the fruit words. Practice:",
+        "words": [
+          {
+            "cap": "Do you like apples?",
+            "src": "media/vocab/apples.png"
+          },
+          {
+            "cap": "Do you like bananas?",
+            "src": "media/vocab/bananas.png"
+          },
+          {
+            "cap": "Do you like grapes?",
+            "src": "media/vocab/grapes.png"
+          },
+          {
+            "cap": "Do you like mangos?",
+            "src": "media/vocab/mangos.png"
+          },
+          {
+            "cap": "Do you like strawberries?",
+            "src": "media/vocab/strawberries.png"
+          },
+          {
+            "cap": "Do you like pears?",
+            "src": "media/vocab/pears.png"
+          }
+        ]
+      },
+      {
+        "c": "Open your book on page 41 and write the date: 2-2. Complete exercise 6.",
+        "img": "media/lb41.png"
+      },
+      {
+        "c": "Take homework. Book page 38. Paste the stickers.",
+        "img": "media/lb38.png"
+      },
+      {
+        "c": "Watch the video. Raise your hands to say sentences about the families.",
+        "embed": "https://www.youtube.com/embed/ni_at59TzMA"
+      },
+      {
+        "c": "Read the words and then find the words in the text (pages. 44,45,46 book). Highlight them using different colors.",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlvov7YSaOo-auPbB9w?e=7hef8V"
+      },
+      {
+        "c": "Find words and underline them with different colors. Look at the previous presentation to find the words.",
+        "img": "media/lb44.png"
+      },
+      {
+        "c": "Find words and underline them with different colors. Look at the previous presentation to find the words.",
+        "img": "media/lb45.png"
+      },
+      {
+        "c": "Find words and underline them with different colors. Look at the previous presentation to find the words.",
+        "img": "media/lb46.png"
+      },
+      { "c": "Transition B goes to the ipad rooms during the second hour." }
+    ]
+  },
+  {
+    "id": "m202",
+    "title": "Day 3 - February 2nd: Which numbers of multiples of ten?",
+    "date": "Feb 2nd",
+    "subject": "Math",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Watch the instructions to work on page 31 in your notebook.",
+        "embed": "https://www.youtube.com/embed/JSTKV-rc0ME"
+      },
+      {
+        "c": "Open your notebook on page 31. Solve the exercise as instructed in the video",
+        "img": "media/m31.png"
+      },
+      {
+        "c": "Share your answers by using the sentences '2 tens equals 20, etc.'"
+      },
+      {
+        "c": "Take homework, notebook page 33. Find the given sum using tens and write the numerals to the tens.",
+        "img": "media/m33.png"
+      }
+    ]
+  },
+  {
+    "id": "a-day-for-dad",
+    "title": "Reading Practice: A Day for Dad",
+    "date": "A Day for Dad",
+    "subject": "Lang",
+    "instructions": [
+      {
+        "c": "Practice reading a 'Day for Dad'. Click on the sentences and repeat.",
+        "words": [
+          {
+            "cap": "Dad and I do things together on father's day.",
+            "src": "media/books/a-day-for-dad/do-things-together.png"
+          },
+          {
+            "cap": "Dad and I eat breakfast on father's day.",
+            "src": "media/books/a-day-for-dad/eat-breakfast.png"
+          },
+          {
+            "cap": "Dad and I eat breakfast on father's day.",
+            "src": "media/books/a-day-for-dad/plan-a-trip.png"
+          },
+          {
+            "cap": "Dad and I ride bikes on father's day.",
+            "src": "media/books/a-day-for-dad/ride-bikes.png"
+          },
+          {
+            "cap": "Dad and I play catch on father's day.",
+            "src": "media/books/a-day-for-dad/play-catch.png"
+          },
+          {
+            "cap": "Dad and I have a picnic on father's day.",
+            "src": "media/books/a-day-for-dad/have-a-picnic.png"
+          },
+          {
+            "cap": "Dad and I buy caps on father's day.",
+            "src": "media/books/a-day-for-dad/buy-caps.png"
+          },
+          {
+            "cap": "Dad and I take naps on father's day.",
+            "src": "media/books/a-day-for-dad/take-naps.png"
+          }
+        ]
+      },
+      {
+        "c": "Practice reading phrases. Click on the green phrases and use your microphone to record:",
+        "listen": [
+          "do things together",
+          "eat breakfast",
+          "plan a trip",
+          "ride bikes",
+          "play catch",
+          "have a picnic",
+          "take naps"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l201",
+    "title": "Day 2 - February 1st: What do you eat for breakfast?",
+    "date": "Feb 1st",
+    "subject": "Lang",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Watch the video and ask your friends what they eat for breakfast",
+        "embed": "https://www.youtube.com/embed/f2vHTdGYFPw"
+      },
+      {
+        "c": "In your book, page 40, ask your partner what he or she eats for breakfast. Don't forget to write the date. Read instruction number 3 on your own.",
+        "img": "media/lb40.png"
+      },
+      {
+        "c": "Watch the video and solve the exercise on page 28 in your notebook.",
+        "embed": "https://www.youtube.com/embed/sg-SRE_S_08"
+      },
+      {
+        "c": "Open your notebook on page 28. Write today's date: 1-2. Remember the steps in the video.",
+        "img": "media/l28.png"
+      },
+      {
+        "c": "TRANSITION A CAN GO TO THE IPADS ROOM AND READ STORIES."
+      }
+    ]
+  },
+  {
+    "id": "m201",
+    "title": "Day 2 - February 1st: How can I order numbers?",
+    "date": "Feb 1st",
+    "subject": "Math",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Watch the video and learn how to order numbers in your notebook.",
+        "embed": "https://www.youtube.com/embed/ogbu8OSOPGs"
+      },
+      {
+        "c": "Open your notebook on page 30. Remember the steps in the video.",
+        "img": "media/mb30.png"
+      },
+      {
+        "c": "You can pause the video to remember the steps."
+      },
+      {
+        "c": "Read your answers. Say sentences like '42 COMES BEFORE 43' and '43 COMES AFTER 42'"
+      },
+      {
+        "c": "If you have time, order numbers in your whietboard."
+      }
+    ]
+  },
+  {
+    "id": "l131",
+    "title": "Day 1 - January 31st: Talk about your family",
+    "date": "Jan 31st",
+    "subject": "Lang",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Watch the video showing a family in the Encanto movie. Then talk about that family.",
+        "embed": "https://www.youtube.com/embed/Yp5nPGWWMh4"
+      },
+      {
+        "c": "Pay attention to the teacher describing his family. Do the same in your notebook.",
+        "embed": "https://www.youtube.com/embed/M1WIgRnH5xY"
+      },
+      {
+        "c": "Open your notebook on page 27 and do the activity",
+        "img": "media/l27.png"
+      }
+    ]
+  },
+  {
+    "id": "m131",
+    "title": "Day 1 - January 31st: How can you add numbers in a triangle?",
+    "date": "Jan 31st",
+    "subject": "Math",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Learn how to add numbers in a triangle:",
+        "embed": "https://www.youtube.com/embed/y-0SSo3UwMA"
+      },
+      {
+        "c": "Now, add the numbers in your notebook, page 28. Write the date, 31-1, and remember the steps in the video.",
+        "img": "media/m28.png"
+      },
+      {
+        "c": "Take homework, notebook page 29. Write tomorrow's date: 1.2",
+        "img": "media/m29.png"
+      },
+      {
+        "c": "Use the hundreds chart to locate the numbers and do your homework.",
+        "link": "https://www.abcya.com/games/interactive_100_number_chart"
+      },
+      {
+        "c": "Watch the counting by five video to solve exercise 4.",
+        "embed": "https://www.youtube.com/embed/EemjeA2Djjw"
+      }
+    ]
+  }
+]

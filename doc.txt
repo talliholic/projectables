@@ -1,0 +1,54 @@
+GITHUB
+
+1. git init
+2. git status
+3. .ignore inside of it: node_modules
+4. git add .
+5. git config --global user.email "talliholic@gmail.com"
+6. git config --global user.name "talliholic"
+7. git commit -m "The message"
+8. git add .
+9. git status
+10. ls -a -l ~/.ssh TO CHECK IF SSH KEYS EXIST
+11. ssh-keygen -t rsa -b 4096 -C "talliholic@gmail.com" TO CREATE SSH KEYS
+12. eval "$(ssh-agent -s)" TO CONNECT TO "AGENT"
+13. ssh-add ~/.ssh/id_rsa ON WINDOWS I OMITTED THE -K AFTER "ADD"
+14. Create repository and get this code from git hub: git remote add origin https://github.com/talliholic/mrperezclass.git
+15. cat ~/.ssh/id_rsa.pub TO GET THE SSH FROM YOUR PC AND ADD TO GIT HUB WEBSITE
+16. Add the returned SSH key onto the github website
+17. ssh -T git@github.com TO AUTHENTICATE INTO GITHUB
+18. Add the rest of the code provided on the new repository page: "git branch -M main
+git push -u origin main"
+
+HEROKU
+1. Download heroku cli
+2. heroku login
+3. heroku keys:add
+4. heroku create mrperezclass
+5. On package.json, on the scripts object: "start": "node src/app.js"
+6. Make sure port const is set up to process.env.PORT
+7. Commit the changes to the repository
+8. git push
+9. Make sure git remote returns heroku and origin
+10. git push heroku main TO DEPLOY
+
+UPDATING DEPLOYED WEBSITE
+1. git add .
+2. git commit -m "Uodate message"
+3. git push
+4. git push heroku main
+
+REACT
+1. npm i @babel/core @babel/cli @babel/preset-react @babel/preset-env
+npx babel react/app.js --out-file=public/scripts/react.js --presets=@babel/preset-env,@babel/preset-react
+npx babel react/app.js --out-file=public/scripts/react.js --presets=@babel/preset-env,@babel/preset-react --watch
+2. -babelrc JSON with object "presets": ["@babel/preset-env", "@babel/preset-react"]
+3. In main file, add the scripts: 
+<script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+<script src="script.js"></script> 
+
+POSTING DATA
+Don't forget:
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));

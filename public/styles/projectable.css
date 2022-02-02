@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@300&family=Short+Stack&display=swap");
+* {
+  font-family: "Gaegu", cursive;
+  font-family: "Short Stack", cursive;
+  color: #404040;
+}
+body {
+  background-color: lightyellow;
+}
+#header {
+  border: 1px solid black;
+  background-color: white;
+  width: fit-content;
+  display: block;
+  margin: auto;
+  padding: 0px 5px;
+  border-radius: 15%;
+}
+h1,
+h2 {
+  text-align: center;
+}
+nav {
+  padding: 2px;
+  margin: 10px auto;
+  width: fit-content;
+  display: block;
+  border-radius: 10%;
+}
+nav button {
+  margin: 5px;
+  color: #484848;
+  font-weight: bold;
+  font-style: italic;
+  cursor: pointer;
+}
+.language {
+  background-color: greenyellow;
+}
+.math {
+  background-color: yellow;
+}
+.subject {
+  margin: 5px auto;
+  padding: 5px;
+  width: fit-content;
+  border: 1px solid #404040;
+}
+nav button:hover {
+  background-color: white;
+}
+nav button:disabled {
+  color: red;
+}
+.session,
+#container {
+  display: block;
+  margin: 25px auto;
+  border: 1px solid black;
+  padding: 10px;
+  width: 900px;
+  background: white;
+  border-radius: 8%;
+}
+.speak {
+  cursor: pointer;
+}
+
+.listen {
+  margin: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.heard,
+.feedback {
+  margin: 10px;
+  padding: 5px;
+  display: inline-block;
+  border: 1px solid green;
+  font-weight: bold;
+  color: green;
+  font-size: 20px;
+}
+.correct {
+  margin: 10px;
+  padding: 5px;
+  display: inline-block;
+  border: 1px solid blue;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+}
+.incorrect {
+  margin: 10px;
+  padding: 5px;
+  display: inline-block;
+  border: 1px solid red;
+  font-weight: bold;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+}
+button.listen {
+  background-color: green;
+  color: white;
+}
+.words span {
+  margin: 10px;
+  padding: 2px;
+  display: inline-block;
+  text-align: center;
+  border-bottom: 1px solid red;
+}
+
+li {
+  margin: 20px;
+  padding: 5px;
+  width: fit-content;
+  border: 1px solid #404040;
+}
+img {
+  display: block;
+  width: 300px;
+  border: 1px solid orange;
+  margin: 10px auto;
+}
+iframe {
+  display: block;
+  border: 1px solid green;
+  margin: 10px auto;
+}
+.vocab {
+  display: block;
+  width: 100px;
+}
+.book {
+  display: block;
+  width: 150px;
+}
+.red {
+  color: red;
+}
+#messages {
+  display: inline-block;
+  background-color: greenyellow;
+  text-decoration: none;
+  padding: 3px;
+  border-radius: 20%;
+  margin: 0px 10px;
+  font-size: 14px;
+}
+h1 {
+  display: inline-block;
+}
