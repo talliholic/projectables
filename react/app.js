@@ -155,6 +155,7 @@ const toReact = (data) => {
             click={props.click}
             words={instruction.words}
             listen={instruction.listen}
+            noPic={instruction.text}
           />
         ))}
       </ul>
@@ -202,6 +203,10 @@ const toReact = (data) => {
           props.listen.map((listen, i) => (
             <Listen key={i.toString()} cap={listen} />
           ))}
+        {props.noPic &&
+          props.noPic.map((text, i) => (
+            <Text click={props.click} key={i.toString()} cap={text} />
+          ))}
       </div>
     );
   };
@@ -232,6 +237,13 @@ const toReact = (data) => {
       );
     }
   }
+  const Text = (props) => {
+    return (
+      <p onClick={props.click} className="speak">
+        {props.cap}
+      </p>
+    );
+  };
   ReactDOM.render(<Session />, app);
 };
 // const messages = document.getElementById("messages");

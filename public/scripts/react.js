@@ -207,7 +207,8 @@ var toReact = function toReact(data) {
         link: instruction.link,
         click: props.click,
         words: instruction.words,
-        listen: instruction.listen
+        listen: instruction.listen,
+        noPic: instruction.text
       });
     }));
   };
@@ -245,6 +246,12 @@ var toReact = function toReact(data) {
       return /*#__PURE__*/React.createElement(Listen, {
         key: i.toString(),
         cap: listen
+      });
+    }), props.noPic && props.noPic.map(function (text, i) {
+      return /*#__PURE__*/React.createElement(Text, {
+        click: props.click,
+        key: i.toString(),
+        cap: text
       });
     }));
   };
@@ -294,6 +301,13 @@ var toReact = function toReact(data) {
 
     return Listen;
   }(React.Component);
+
+  var Text = function Text(props) {
+    return /*#__PURE__*/React.createElement("p", {
+      onClick: props.click,
+      className: "speak"
+    }, props.cap);
+  };
 
   ReactDOM.render( /*#__PURE__*/React.createElement(Session, null), app);
 }; // const messages = document.getElementById("messages");

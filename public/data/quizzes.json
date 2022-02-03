@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Grow, Vegetables, Grow",
+    "images": [
+      {
+        "caption": "Grow, Vegetables, Grow.",
+        "path": "media/books/growVegetablesGrow/title.png"
+      },
+      {
+        "caption": "I water the carrot plants.",
+        "path": "media/books/growVegetablesGrow/carrotPlants.png"
+      },
+      {
+        "caption": "I water the pepper plants.",
+        "path": "media/books/growVegetablesGrow/pepperPlants.png"
+      },
+      {
+        "caption": "I water the tomato plants.",
+        "path": "media/books/growVegetablesGrow/tomatoPlants.png"
+      },
+      {
+        "caption": "I water the bean plants.",
+        "path": "media/books/growVegetablesGrow/beanPlants.png"
+      },
+      {
+        "caption": "I water the onion plants.",
+        "path": "media/books/growVegetablesGrow/onionPlants.png"
+      },
+      {
+        "caption": "I water the cucumber plants.",
+        "path": "media/books/growVegetablesGrow/cucumberPlants.png"
+      },
+      {
+        "caption": "I water the pea plants.",
+        "path": "media/books/growVegetablesGrow/peaPlants.png"
+      },
+      {
+        "caption": "I want to make a salad.",
+        "path": "media/books/growVegetablesGrow/salad.png"
+      }
+    ]
+  },
+  {
+    "title": "Another Title",
+    "images": [
+      {
+        "caption": "Grow, Vegetables, Grow.",
+        "path": "media/books/growVegetablesGrow/title.png"
+      },
+      {
+        "caption": "I water the carrot plants.",
+        "path": "media/books/growVegetablesGrow/carrotPlants.png"
+      },
+      {
+        "caption": "I water the pepper plants.",
+        "path": "media/books/growVegetablesGrow/pepperPlants.png"
+      },
+      {
+        "caption": "I water the tomato plants.",
+        "path": "media/books/growVegetablesGrow/tomatoPlants.png"
+      },
+      {
+        "caption": "I water the bean plants.",
+        "path": "media/books/growVegetablesGrow/beanPlants.png"
+      },
+      {
+        "caption": "I water the onion plants.",
+        "path": "media/books/growVegetablesGrow/onionPlants.png"
+      },
+      {
+        "caption": "I water the cucumber plants.",
+        "path": "media/books/growVegetablesGrow/cucumberPlants.png"
+      },
+      {
+        "caption": "I water the pea plants.",
+        "path": "media/books/growVegetablesGrow/peaPlants.png"
+      },
+      {
+        "caption": "I want to make a salad.",
+        "path": "media/books/growVegetablesGrow/salad.png"
+      }
+    ]
+  }
+]

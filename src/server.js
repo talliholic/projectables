@@ -26,6 +26,9 @@ app.get("", auth, (req, res) => {
     title: "Mr. Perez's Class Projectables",
   });
 });
+app.get("/text-images", auth, (req, res) => {
+  res.render("text-images");
+});
 app.get("/auth", (req, res) => {
   res.render("auth", {
     title: "Get Authorized",

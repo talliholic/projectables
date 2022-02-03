@@ -23,6 +23,79 @@
     ]
   },
   {
+    "id": "l204",
+    "title": "Day 4 - February 3rd: What happened in the story 'Three Families'?",
+    "date": "Feb 3th",
+    "subject": "Lang",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Read the story with the teacher. Click on the sentences to practice reading:",
+        "text": [
+          "All over the world, families have fun and work together.",
+          "Ayesha and her brother go shopping with grandma.",
+          "Ayesha reads the shopping list.",
+          "What is in the shopping cart? What's next on the list?",
+          "Kadar looks at his family's calendar.",
+          "Today is Saturday, Dad and Amira play with their boat",
+          "Mum and Asha play music together.",
+          "Kadar goes out to meet his friend.",
+          "What do Kadar and his friends do?"
+        ]
+      },
+      {
+        "c": "Open your book on page 47. Practice reading the sentences on exercise 4 and, on paper, draw what you and your family like to do.",
+        "img": "media/lb47.png"
+      },
+      {
+        "c": "HOMEWORK: Write tomorrow's date on page 43 in your book. Practice the reading.",
+        "img": "media/lb43.png"
+      },
+      {
+        "c": "Click on the sentences to practice reading.",
+        "text": [
+          "The cat has a hat.",
+          "The cat has a map",
+          "The cat claps",
+          "The cat is back",
+          "The cat has a nap in dad's lap"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m203",
+    "title": "Day 4 - February 3rd: How can I order numbers?",
+    "date": "Feb 3rd",
+    "subject": "Math",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Play an ordering game. Select ordering, then 'forwards 1 to 20'",
+        "link": "https://www.topmarks.co.uk/ordering-and-sequencing/caterpillar-ordering"
+      },
+      {
+        "c": "In your notebook, page 35, order the numbers from least to greatest. Then from greatest to least",
+        "img": "media/m35.png"
+      },
+      {
+        "c": "Share your answers by using the following sentences. Click on them to practice",
+        "text": [
+          "I ordered the numbers from least to greatest.",
+          "They go 5, 7, 10.",
+          "I ordered the numbers from greatest to least.",
+          "They go 10, 6, 3, 1."
+        ]
+      }
+    ]
+  },
+  {
     "id": "l202",
     "title": "Day 3 - February 2nd: ",
     "date": "Feb 2nd",
