@@ -23,9 +23,9 @@
     ]
   },
   {
-    "id": "l204",
-    "title": "Day 4 - February 3rd: What happened in the story 'Three Families'?",
-    "date": "Feb 3th",
+    "id": "b47l",
+    "title": "What happened in the story 'Three Families'?",
+    "date": "b47, b43",
     "subject": "Lang",
     "instructions": [
       {
@@ -67,9 +67,9 @@
     ]
   },
   {
-    "id": "m203",
-    "title": "Day 4 - February 3rd: How can I order numbers?",
-    "date": "Feb 3rd",
+    "id": "35m",
+    "title": "How can I order numbers?",
+    "date": "35",
     "subject": "Math",
     "instructions": [
       {
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "id": "l202",
-    "title": "Day 3 - February 2nd: ",
-    "date": "Feb 2nd",
+    "id": "b41l",
+    "title": "Do you like...",
+    "date": "b41, b38",
     "subject": "Lang",
     "instructions": [
       {
@@ -166,9 +166,9 @@
     ]
   },
   {
-    "id": "m202",
-    "title": "Day 3 - February 2nd: Which numbers of multiples of ten?",
-    "date": "Feb 2nd",
+    "id": "31m",
+    "title": "Which numbers of multiples of ten?",
+    "date": "31, 33",
     "subject": "Math",
     "instructions": [
       {
@@ -250,9 +250,9 @@
     ]
   },
   {
-    "id": "l201",
-    "title": "Day 2 - February 1st: What do you eat for breakfast?",
-    "date": "Feb 1st",
+    "id": "b40l",
+    "title": "What do you eat for breakfast?",
+    "date": "b40, 28,",
     "subject": "Lang",
     "instructions": [
       {
@@ -281,9 +281,9 @@
     ]
   },
   {
-    "id": "m201",
-    "title": "Day 2 - February 1st: How can I order numbers?",
-    "date": "Feb 1st",
+    "id": "30m",
+    "title": "How can I order numbers?",
+    "date": "30",
     "subject": "Math",
     "instructions": [
       {
@@ -310,9 +310,9 @@
     ]
   },
   {
-    "id": "l131",
-    "title": "Day 1 - January 31st: Talk about your family",
-    "date": "Jan 31st",
+    "id": "27l",
+    "title": "Talk about your family",
+    "date": "27",
     "subject": "Lang",
     "instructions": [
       {
@@ -334,9 +334,9 @@
     ]
   },
   {
-    "id": "m131",
-    "title": "Day 1 - January 31st: How can you add numbers in a triangle?",
-    "date": "Jan 31st",
+    "id": "28m",
+    "title": "How can you add numbers in a triangle?",
+    "date": "28, 29",
     "subject": "Math",
     "instructions": [
       {

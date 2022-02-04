@@ -178,7 +178,7 @@ const toReact = (data) => {
           ></iframe>
         )}
         {props.img && (
-          <a href={props.img}>
+          <a target="_blank" href={props.img}>
             <img src={props.img} />
           </a>
         )}

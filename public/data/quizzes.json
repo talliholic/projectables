@@ -41,43 +41,35 @@
     ]
   },
   {
-    "title": "Another Title",
+    "title": "A Day for Dad",
     "images": [
       {
-        "caption": "Grow, Vegetables, Grow.",
-        "path": "media/books/growVegetablesGrow/title.png"
+        "caption": "Dad and I buy caps.",
+        "path": "media/books/a-day-for-dad/buy-caps.png"
       },
       {
-        "caption": "I water the carrot plants.",
-        "path": "media/books/growVegetablesGrow/carrotPlants.png"
+        "caption": "Dad and I eat breakfast.",
+        "path": "media/books/a-day-for-dad/eat-breakfast.png"
       },
       {
-        "caption": "I water the pepper plants.",
-        "path": "media/books/growVegetablesGrow/pepperPlants.png"
+        "caption": "Dad and I have a picnic.",
+        "path": "media/books/a-day-for-dad/have-a-picnic.png"
       },
       {
-        "caption": "I water the tomato plants.",
-        "path": "media/books/growVegetablesGrow/tomatoPlants.png"
+        "caption": "Dad and I plan a trip.",
+        "path": "media/books/a-day-for-dad/plan-a-trip.png"
       },
       {
-        "caption": "I water the bean plants.",
-        "path": "media/books/growVegetablesGrow/beanPlants.png"
+        "caption": "Dad and I plat catch.",
+        "path": "media/books/a-day-for-dad/play-catch.png"
       },
       {
-        "caption": "I water the onion plants.",
-        "path": "media/books/growVegetablesGrow/onionPlants.png"
+        "caption": "Dad and I ride bikes.",
+        "path": "media/books/a-day-for-dad/ride-bikes.png"
       },
       {
-        "caption": "I water the cucumber plants.",
-        "path": "media/books/growVegetablesGrow/cucumberPlants.png"
-      },
-      {
-        "caption": "I water the pea plants.",
-        "path": "media/books/growVegetablesGrow/peaPlants.png"
-      },
-      {
-        "caption": "I want to make a salad.",
-        "path": "media/books/growVegetablesGrow/salad.png"
+        "caption": "Dad and I take naps.",
+        "path": "media/books/a-day-for-dad/take-naps.png"
       }
     ]
   }

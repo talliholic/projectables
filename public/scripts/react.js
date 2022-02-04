@@ -225,6 +225,7 @@ var toReact = function toReact(data) {
       allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
       allowFullScreen: true
     }), props.img && /*#__PURE__*/React.createElement("a", {
+      target: "_blank",
       href: props.img
     }, /*#__PURE__*/React.createElement("img", {
       src: props.img

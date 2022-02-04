@@ -26,7 +26,7 @@ app.get("", auth, (req, res) => {
     title: "Mr. Perez's Class Projectables",
   });
 });
-app.get("/text-images", auth, (req, res) => {
+app.get("/text-images", (req, res) => {
   res.render("text-images");
 });
 app.get("/auth", (req, res) => {
