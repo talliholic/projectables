@@ -22,6 +22,16 @@ function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Re
 
 function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
 
+function sanitize(text) {
+  var output = text.toLowerCase();
+
+  if (output.includes(".")) {
+    output = output.replace(".", "");
+  }
+
+  return output.trim();
+}
+
 function speak(text) {
   var utter = new SpeechSynthesisUtterance();
   utter.lang = "en";
@@ -53,9 +63,9 @@ function listen(resultDom) {
     var transcript = event.results[0][0].transcript;
     var confidence = event.results[0][0].confidence;
     var sibling = resultDom.nextElementSibling;
-    sibling.textContent = transcript;
+    sibling.textContent = transcript.toUpperCase();
 
-    if (sibling.textContent === resultDom.textContent) {
+    if (sanitize(sibling.textContent) === sanitize(resultDom.textContent)) {
       sibling.nextElementSibling.textContent = "Correct!";
       sibling.nextElementSibling.classList.add("correct");
 

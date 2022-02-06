@@ -1,3 +1,10 @@
+function sanitize(text) {
+  let output = text.toLowerCase();
+  if (output.includes(".")) {
+    output = output.replace(".", "");
+  }
+  return output.trim();
+}
 function speak(text) {
   const utter = new SpeechSynthesisUtterance();
   utter.lang = "en";
@@ -26,8 +33,8 @@ function listen(resultDom) {
     var transcript = event.results[0][0].transcript;
     var confidence = event.results[0][0].confidence;
     const sibling = resultDom.nextElementSibling;
-    sibling.textContent = transcript;
-    if (sibling.textContent === resultDom.textContent) {
+    sibling.textContent = transcript.toUpperCase();
+    if (sanitize(sibling.textContent) === sanitize(resultDom.textContent)) {
       sibling.nextElementSibling.textContent = "Correct!";
       sibling.nextElementSibling.classList.add("correct");
       if (sibling.nextElementSibling.classList.contains("incorrect")) {

@@ -26,6 +26,9 @@ app.get("", auth, (req, res) => {
     title: "Mr. Perez's Class Projectables",
   });
 });
+app.get("/menu", auth, (req, res) => {
+  res.render("menu");
+});
 app.get("/text-images", (req, res) => {
   res.render("text-images");
 });

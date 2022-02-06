@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@300&family=Short+Stack&display=swap");
+* {
+  font-family: "Gaegu", cursive;
+  font-family: "Short Stack", cursive;
+  color: #404040;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightyellow;
+}
+#menu {
+  position: fixed;
+  left: 20px;
+  top: 20px;
+  font-size: 24px;
+  text-decoration: none;
+  background-color: white;
+  padding: 7px;
+  border-radius: 10px;
+  border: 1px solid black;
+  font-style: italic;
+}
+button {
+  font-size: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.selected {
+  border: 4px solid red;
+}
+.hidden {
+  visibility: hidden;
+}
+.visible {
+  visibility: visible;
+}
+.display {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.item {
+  background-color: lightgray;
+  padding: 2px 20px;
+  margin: 5px 60px;
+  border-radius: 40px;
+}
+.options {
+  padding: 15px;
+  display: block;
+  margin: 5px auto;
+  text-align: center;
+  width: fit-content;
+  border-radius: 20px;
+  background-color: white;
+}
+.question,
+#msg {
+  background-color: white;
+  width: fit-content;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 28px;
+  padding: 7px;
+  border-radius: 20px;
+  border: 2px solid blue;
+}
+.option {
+  display: inline-block;
+  margin: 10px 20px;
+}
+img {
+  height: 200px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.nav-quiz {
+  text-align: center;
+  margin: 0px 100px;
+}
+.btn-quiz {
+  margin: 2px 7px;
+}
+#msg {
+  border: 2px solid green;
+}
+.chk-work {
+  display: block;
+  margin: 0px auto;
+}
+.nav-items {
+  text-align: center;
+  color: blue;
+  margin-top: 15px;
+}
+.nav-btn {
+  margin: 0px 10px;
+}
