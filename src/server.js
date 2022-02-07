@@ -26,11 +26,20 @@ app.get("", auth, (req, res) => {
     title: "Mr. Perez's Class Projectables",
   });
 });
+app.get("/pace", auth, (req, res) => {
+  res.render("pace");
+});
 app.get("/menu", auth, (req, res) => {
   res.render("menu");
 });
 app.get("/text-images", (req, res) => {
   res.render("text-images");
+});
+app.get("/text-images-language", (req, res) => {
+  res.render("text-images-language");
+});
+app.get("/text-images-math", (req, res) => {
+  res.render("text-images-math");
 });
 app.get("/auth", (req, res) => {
   res.render("auth", {

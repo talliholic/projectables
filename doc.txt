@@ -44,6 +44,10 @@ npx babel react/app.js --out-file=public/scripts/react.js --presets=@babel/prese
 npx babel react/app.js --out-file=public/scripts/react.js --presets=@babel/preset-env,@babel/preset-react --watch
 npx babel react/text-images.js --out-file=public/scripts/text-images.js --presets=@babel/preset-env,@babel/preset-react
 npx babel react/text-images.js --out-file=public/scripts/text-images.js --presets=@babel/preset-env,@babel/preset-react --watch
+npx babel react/text-images-language.js --out-file=public/scripts/text-images-language.js --presets=@babel/preset-env,@babel/preset-react
+npx babel react/text-images-language.js --out-file=public/scripts/text-images-language.js --presets=@babel/preset-env,@babel/preset-react --watch
+npx babel react/text-images-math.js --out-file=public/scripts/text-images-math.js --presets=@babel/preset-env,@babel/preset-react
+npx babel react/text-images-math.js --out-file=public/scripts/text-images-math.js --presets=@babel/preset-env,@babel/preset-react --watch
 2. -babelrc JSON with object "presets": ["@babel/preset-env", "@babel/preset-react"]
 3. In main file, add the scripts: 
 <script src="https://unpkg.com/react@17/umd/react.development.js"></script>

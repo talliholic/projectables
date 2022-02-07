@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Tens in words",
+    "images": [
+      {
+        "caption": "1 ten",
+        "path": "media/books/multiples-of-ten/1-ten.png"
+      },
+      {
+        "caption": "2 tens",
+        "path": "media/books/multiples-of-ten/2-tens.png"
+      },
+      {
+        "caption": "3 tens",
+        "path": "media/books/multiples-of-ten/3-tens.png"
+      },
+      {
+        "caption": "4 tens",
+        "path": "media/books/multiples-of-ten/4-tens.png"
+      },
+      {
+        "caption": "5 tens",
+        "path": "media/books/multiples-of-ten/5-tens.png"
+      },
+      {
+        "caption": "6 tens",
+        "path": "media/books/multiples-of-ten/6-tens.png"
+      },
+      {
+        "caption": "7 tens",
+        "path": "media/books/multiples-of-ten/7-tens.png"
+      },
+      {
+        "caption": "8 tens",
+        "path": "media/books/multiples-of-ten/8-tens.png"
+      },
+      {
+        "caption": "9 tens",
+        "path": "media/books/multiples-of-ten/9-tens.png"
+      },
+      {
+        "caption": "10 tens",
+        "path": "media/books/multiples-of-ten/10-tens.png"
+      }
+    ]
+  },
+  {
+    "title": "Tens in numbers",
+    "images": [
+      {
+        "caption": "10",
+        "path": "media/books/multiples-of-ten/1-ten.png"
+      },
+      {
+        "caption": "20",
+        "path": "media/books/multiples-of-ten/2-tens.png"
+      },
+      {
+        "caption": "30",
+        "path": "media/books/multiples-of-ten/3-tens.png"
+      },
+      {
+        "caption": "40",
+        "path": "media/books/multiples-of-ten/4-tens.png"
+      },
+      {
+        "caption": "50",
+        "path": "media/books/multiples-of-ten/5-tens.png"
+      },
+      {
+        "caption": "60",
+        "path": "media/books/multiples-of-ten/6-tens.png"
+      },
+      {
+        "caption": "70",
+        "path": "media/books/multiples-of-ten/7-tens.png"
+      },
+      {
+        "caption": "80",
+        "path": "media/books/multiples-of-ten/8-tens.png"
+      },
+      {
+        "caption": "90",
+        "path": "media/books/multiples-of-ten/9-tens.png"
+      },
+      {
+        "caption": "100",
+        "path": "media/books/multiples-of-ten/10-tens.png"
+      }
+    ]
+  },
+  {
+    "title": "Tens by adding",
+    "images": [
+      {
+        "caption": "10 + 0",
+        "path": "media/books/multiples-of-ten/1-ten.png"
+      },
+      {
+        "caption": "10 + 10",
+        "path": "media/books/multiples-of-ten/2-tens.png"
+      },
+      {
+        "caption": "10 + 10 + 10",
+        "path": "media/books/multiples-of-ten/3-tens.png"
+      },
+      {
+        "caption": "10 + 10 + 10 + 10",
+        "path": "media/books/multiples-of-ten/4-tens.png"
+      },
+      {
+        "caption": "10 + 10 + 10 + 10 + 10",
+        "path": "media/books/multiples-of-ten/5-tens.png"
+      },
+      {
+        "caption": "10 + 10 + 10 + 10 + 10 + 10",
+        "path": "media/books/multiples-of-ten/6-tens.png"
+      },
+      {
+        "caption": "10 + 10 + 10 + 10 + 10 + 10 + 10",
+        "path": "media/books/multiples-of-ten/7-tens.png"
+      },
+      {
+        "caption": "10 + 10 + 10 + 10 + 10 + 10 + 10 + 10",
+        "path": "media/books/multiples-of-ten/8-tens.png"
+      },
+      {
+        "caption": "10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10",
+        "path": "media/books/multiples-of-ten/9-tens.png"
+      },
+      {
+        "caption": "10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10",
+        "path": "media/books/multiples-of-ten/10-tens.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Language Notebook 26",
+    "images": [
+      {
+        "caption": "This is my uncle, his name is Pedro.",
+        "path": "media/books/language-notebook-26/uncle.jpg"
+      },
+      {
+        "caption": "My uncle and I like to go to the park.",
+        "path": "media/books/language-notebook-26/park.jpg"
+      },
+      {
+        "caption": "We like to catch the ball.",
+        "path": "media/books/language-notebook-26/catch-ball.jpg"
+      },
+      {
+        "caption": "We like to play when we are together.",
+        "path": "media/books/language-notebook-26/like-play.png"
+      },
+      {
+        "caption": "Do you have any aunts?",
+        "path": "media/books/language-notebook-26/aunt.png"
+      },
+      {
+        "caption": "It is important to help and tidy your room everyday.",
+        "path": "media/books/language-notebook-26/clean.png"
+      }
+    ]
+  }
+]

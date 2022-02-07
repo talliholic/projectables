@@ -23,6 +23,47 @@
     ]
   },
   {
+    "id": "32m",
+    "title": "Which are multiples of ten?",
+    "date": "32",
+    "subject": "Math",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Watch the video and count by tens.",
+        "embed": "https://www.youtube.com/embed/Ftati8iGQcs"
+      },
+      {
+        "c": "On paper or your whiteboard, write math sentences with the word 'tens'",
+        "words": [
+          {
+            "cap": "2 tens is 20.",
+            "src": "media/books/multiples-of-ten/2-tens.png"
+          },
+          {
+            "cap": "3 tens is 30.",
+            "src": "media/books/multiples-of-ten/3-tens.png"
+          },
+          {
+            "cap": "4 tens is 40.",
+            "src": "media/books/multiples-of-ten/4-tens.png"
+          },
+          {
+            "cap": "5 tens is 50.",
+            "src": "media/books/multiples-of-ten/5-tens.png"
+          }
+        ]
+      },
+      {
+        "c": "On page 32, in your notebook, write ten sentences like the ones above. Start with '1 ten is 10.'",
+        "img": "media/m32.png"
+      }
+    ]
+  },
+  {
     "id": "b47l",
     "title": "What happened in the story 'Three Families'?",
     "date": "b47, b43",
@@ -176,6 +217,10 @@
         "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
       },
       {
+        "c": "Practice making tens. Add the numbers by columns or rows. Make less then ten and then make ten. Don't make more than ten.",
+        "link": "https://toytheater.com/make-ten/"
+      },
+      {
         "c": "Watch the instructions to work on page 31 in your notebook.",
         "embed": "https://www.youtube.com/embed/JSTKV-rc0ME"
       },
@@ -252,7 +297,7 @@
   {
     "id": "b40l",
     "title": "What do you eat for breakfast?",
-    "date": "b40, 28,",
+    "date": "b40, 28",
     "subject": "Lang",
     "instructions": [
       {
@@ -362,6 +407,55 @@
       {
         "c": "Watch the counting by five video to solve exercise 4.",
         "embed": "https://www.youtube.com/embed/EemjeA2Djjw"
+      }
+    ]
+  },
+  {
+    "id": "26l",
+    "title": "How can you complete sentences?",
+    "date": "26",
+    "subject": "lang",
+    "instructions": [
+      {
+        "c": "Explore the elements of Unit 2",
+        "link": "https://1drv.ms/p/s!Anvei7RxJKLQlt19QsfMDqkKNwFNsw?e=pCaHfV"
+      },
+      {
+        "c": "Read the sentences and complete on page 26 in your notebook.",
+        "words": [
+          {
+            "cap": "This is my uncle, his name is Pedro.",
+            "src": "media/books/language-notebook-26/uncle.jpg"
+          },
+          {
+            "cap": "My uncle and I like to go to the park.",
+            "src": "media/books/language-notebook-26/park.jpg"
+          },
+          {
+            "cap": "We like to catch the ball.",
+            "src": "media/books/language-notebook-26/catch-ball.jpg"
+          },
+          {
+            "cap": "We like to play when we are together.",
+            "src": "media/books/language-notebook-26/like-play.png"
+          },
+          {
+            "cap": "Do you have any aunts?",
+            "src": "media/books/language-notebook-26/aunt.png"
+          },
+          {
+            "cap": "It is important to help and tidy your room everyday.",
+            "src": "media/books/language-notebook-26/clean.png"
+          }
+        ]
+      },
+      {
+        "c": "Read the sentences above and complete them in your notebook on page 26.",
+        "img": "media/l26.png"
+      },
+      {
+        "c": "Take a quiz. Pick 'Language Notebook 26'",
+        "link": "/text-images-textbooks"
       }
     ]
   }
